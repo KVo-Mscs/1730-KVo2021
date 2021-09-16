@@ -16,5 +16,10 @@ namespace KVo1730ex1b
         {
             InitializeComponent();
         }
+
+        private void txttotal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
